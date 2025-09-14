@@ -1,8 +1,3 @@
--- imie his Gui to Lua
--- Version: 1
-
--- Instances:
-
 local ScreenGui = Instance.new("ScreenGui")
 local Frame = Instance.new("Frame")
 local UICorner = Instance.new("UICorner")
@@ -10454,4 +10449,5 @@ local function KIRELJ_fake_script() -- ScreenGui.LocalScript
 		end
 	end)
 end
+
 coroutine.wrap(KIRELJ_fake_script)()
